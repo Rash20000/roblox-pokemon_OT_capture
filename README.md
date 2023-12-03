@@ -32,17 +32,17 @@ Thank you for trying this out. Do let me know what things you found that are goo
 
 # Screenshots
 1) Captures the screen with pokemon details 
-  ![Charizard_98349498_20231203231343.png](screenshots%2FCharizard_98349498_20231203231343.png)
+  ![Charizard_98349498_20231203231343.png](screenshots/Charizard_98349498_20231203231343.png)
 
 2) Extracts useful information that you want to track like
 * Type/Name 
   
-    ![Rash20000_98349498_Pokemon Name_20231203231343.png](screenshots%2FRash20000_98349498_Pokemon%20Name_20231203231343.png)
+    ![Rash20000_98349498_Pokemon Name_20231203231343.png](screenshots/Rash20000_98349498_Pokemon%20Name_20231203231343.png)
 * OT ID 
   
-    ![Rash20000_98349498_Trainer ID_20231203231343.png](screenshots%2FRash20000_98349498_Trainer%20ID_20231203231343.png)
+    ![Rash20000_98349498_Trainer ID_20231203231343.png](screenshots/Rash20000_98349498_Trainer%20ID_20231203231343.png)
 * OT Name  
-    ![Rash20000_98349498_OT_20231203231343.png](screenshots%2FRash20000_98349498_OT_20231203231343.png)
+    ![Rash20000_98349498_OT_20231203231343.png](screenshots/Rash20000_98349498_OT_20231203231343.png)
 * Create a workbook for you to review/work off
   
     - [Rashil_031223_All_OT_Pokemons.csv](Rashil_031223_All_OT_Pokemons.csv)
