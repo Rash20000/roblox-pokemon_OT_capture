@@ -1,0 +1,5 @@
+keyboard==0.13.5
+Pillow==10.1.0
+pyscreenshot==3.1
+pytesseract==0.3.10
+screeninfo==0.8.1
